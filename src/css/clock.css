@@ -1,0 +1,33 @@
+input {
+    padding: 10px;
+    width: 40pxß;
+    border: 1px solid #2c3636;
+    margin-right: 10px;
+}
+button {
+padding: 10px;
+min-width: 60px;
+font-size: 16px;
+
+}
+.timer {
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    width: 270px;
+    border-radius: 5px;
+    border: 4px solid rgb(87, 85, 85);
+}
+
+/* .field {
+  
+    min-width: 70px;
+    font-size: 18px;
+    padding: 5px;
+} */
+.value {
+    display: block;
+    font-size: 50px;
+}
